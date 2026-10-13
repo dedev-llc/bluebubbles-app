@@ -50,4 +50,4 @@ pubspeck.lock
 *.env
 /lib/models/html/giphy.dart
 node_modules
-.env
+config.bat
